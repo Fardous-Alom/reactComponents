@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza",
+    "origin": "Italy",
+    "type": "Main Course",
+    "isSpicy": false,
+    "rating": 4.8
+  },
+  {
+    "id": 2,
+    "name": "Sushi",
+    "origin": "Japan",
+    "type": "Main Course",
+    "isSpicy": false,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "name": "Tacos",
+    "origin": "Mexico",
+    "type": "Snack",
+    "isSpicy": true,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Biryani",
+    "origin": "India",
+    "type": "Main Course",
+    "isSpicy": true,
+    "rating": 4.7
+  },
+  {
+    "id": 5,
+    "name": "Croissant",
+    "origin": "France",
+    "type": "Dessert",
+    "isSpicy": false,
+    "rating": 4.2
+  },
+  {
+    "id": 6,
+    "name": "Kimchi",
+    "origin": "Korea",
+    "type": "Side Dish",
+    "isSpicy": true,
+    "rating": 4.0
+  },
+  {
+    "id": 7,
+    "name": "Hamburger",
+    "origin": "USA",
+    "type": "Main Course",
+    "isSpicy": false,
+    "rating": 4.4
+  },
+  {
+    "id": 8,
+    "name": "Pad Thai",
+    "origin": "Thailand",
+    "type": "Main Course",
+    "isSpicy": false,
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Falafel",
+    "origin": "Middle East",
+    "type": "Snack",
+    "isSpicy": false,
+    "rating": 4.1
+  },
+  {
+    "id": 10,
+    "name": "Chili Crab",
+    "origin": "Singapore",
+    "type": "Main Course",
+    "isSpicy": true,
+    "rating": 4.9
+  }
+]
